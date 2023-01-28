@@ -16,6 +16,9 @@
 ## Spring
 - JPA 개요(https://ojt90902.tistory.com/1311, chickenchickenlove)
 
+## JPA
+- Spring Data JPA 정리(https://ojt90902.tistory.com/1312)
+
 ## kubernetes
 
 ## docker
