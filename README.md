@@ -9,15 +9,24 @@
 
 ## Kotlin
 
+
+
 ## Python
+
+
 
 ## JavaScript
 
+
+
 ## Spring
-- JPA 개요(https://ojt90902.tistory.com/1311, chickenchickenlove)
+
+
 
 ## JPA
+- JPA 개요(https://ojt90902.tistory.com/1311, chickenchickenlove)
 - Spring Data JPA 정리(https://ojt90902.tistory.com/1312, chickenchickenlove)
+- Query DSL 개요(https://ojt90902.tistory.com/1313, chickenchickenlove)
 
 ## kubernetes
 
