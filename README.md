@@ -20,6 +20,7 @@
 
 
 ## Spring
+- Spring 트랜잭션 관련 기초 정리(https://ojt90902.tistory.com/1316, chickenchickenlove)
 
 
 
