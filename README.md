@@ -12,7 +12,7 @@
 
 
 ## Python
-
+- aysncio를 이용한 비동기 프로그래밍의 이해 (https://ojt90902.tistory.com/1317, chickenchickenlove)
 
 
 ## JavaScript
