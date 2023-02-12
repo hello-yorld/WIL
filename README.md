@@ -21,7 +21,7 @@
 
 ## Spring
 - Spring 트랜잭션 관련 기초 정리(https://ojt90902.tistory.com/1316, chickenchickenlove)
-
+- Spring Reactor Kafka 의 graceful shutdown ([https://velog.io/@jkh9615/Spring-ReactorKafka-Coroutine...](https://velog.io/@jkh9615/Spring-ReactorKafka-Coroutine-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%A2%85%EB%A3%8C-%EC%8B%9C-zookeeper-connection-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0), kyunghyun-cho)
 
 
 ## JPA
