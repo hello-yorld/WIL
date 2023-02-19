@@ -12,7 +12,11 @@
 
 
 ## Python
-- aysncio를 이용한 비동기 프로그래밍의 이해 (https://ojt90902.tistory.com/1317, chickenchickenlove)
+- asyncio를 이용한 비동기 프로그래밍의 이해 (https://ojt90902.tistory.com/1317, chickenchickenlove)
+- asyncio 비동기 프로그래밍 공부 (https://ojt90902.tistory.com/1331 ,chickenchickenlove)
+- async with를 이용한 asyncContextManager 사용(https://ojt90902.tistory.com/1334 ,chickenchickenlove)
+- 비동기 이터레이터, 비동기 제네레이터, 비동기 컴프리헨션(https://ojt90902.tistory.com/1335 ,chickenchickenlove)
+- asyncio의 시작과 종료 (https://ojt90902.tistory.com/1336, chickenchickenlove)
 
 
 ## JavaScript
