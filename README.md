@@ -6,6 +6,12 @@
 
 ## Java
 - Java의 상속 (https://ojt90902.tistory.com/1308, chickenchickenlove)
+- Effective Java Item2 : 생성자에 매개변수가 많다면 빌더를 고려하라. (https://ojt90902.tistory.com/1326, chickenchickenlove)
+- Effective Java Item3 : 생성자나 열거 타입으로 싱글턴임을 보증하라. (https://ojt90902.tistory.com/1340, chickenchickenlove)
+- Effective Java Item3 완벽공략 (https://ojt90902.tistory.com/1341, chickenchickenlove)
+- Effective Java Item4 : 인스턴스화를 막으려거든 private 생성자를 사용하라. (https://ojt90902.tistory.com/1342, chickenchickenlove)
+- Effective Java Item5 : 자원을 직접 명시하지 말고 의존객체 주입을 사용하라. (https://ojt90902.tistory.com/1343, chickenchickenlove) 
+
 
 ## Kotlin
 
@@ -33,6 +39,12 @@
 - Spring Data JPA 정리(https://ojt90902.tistory.com/1312, chickenchickenlove)
 - Query DSL 개요(https://ojt90902.tistory.com/1313, chickenchickenlove)
 
+## Test
+- JUnit in Action : 1. JUnit 첫걸음 (https://ojt90902.tistory.com/1337, chickenchickenlove)
+- JUnit in Action : 2. Junit 핵심 들여다보기 (https://ojt90902.tistory.com/1338 , chickenchickenlove)
+- JUnit in Action : 7. Mock 객체를 활용한 테스트 (https://ojt90902.tistory.com/1339, chickenchickenlove) 
+
+
 ## kubernetes
 
 ## docker
@@ -51,4 +63,4 @@
 
 ## shell
 
-##
+## 
